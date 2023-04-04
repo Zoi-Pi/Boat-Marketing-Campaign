@@ -13,4 +13,5 @@ Json file with location data from https://geojson-maps.ash.ms/
 - What is the relationship between counties and prices?
 - What is the relationship between boat types and views?
 # Tableau Storyboard
+The storyboard does not contain all the analysis steps that were followed in the Python scrips. 
 Link: https://public.tableau.com/views/Task6_7TBC/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
